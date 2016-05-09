@@ -29,7 +29,7 @@ print bcolors.BOLD + """
    /___  / / /  / __/ / / __/ /| |/ /   / /_/ /\  / /_/ // /   / /_/ /\  /
   ____/ / / /  / /___/ /_/ / ___ / /___/ _, _/ / / ____// /   / ____/ / /
  /_____/ /_/  /_____/\____/_/  |_\____/_/ |_| /_/_/    /_/ (_)_/     /_/
- (c) Agusti Gunawan 2016
+ (c) Agusti Gunawan 2016	https://github.com/Agusti7a/StegaCrypt-master
 \n """ + bcolors.ENDC
 
 def clear():
