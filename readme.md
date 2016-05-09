@@ -50,6 +50,7 @@ Menjalankan Aplikasi
 	~$ python ./StegaCrypt.py , atau
 	~$ ./StegaCrypt.py
 4. Pilih Opsi yang tersedia di aplikasi tersebut.
+
 =========================================================================
 
 
