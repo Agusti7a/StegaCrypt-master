@@ -56,7 +56,7 @@ Menjalankan Aplikasi
 
 =========================================================================
 About this script
--------------------------------------------------- -----------------------
+-------------------------------------------------------------------------
 Simple script to secure file / data by the method of Cryptography and 
 steganography. This script uses AES-256 algorithm for encryption. AES-256 
 is the strongest of key blocks in the key version AES such as AES-128, 
@@ -73,18 +73,18 @@ AES lainnya seperti AES-128, AES-192.
 Dalam fungsi Steganography disini menggunakan modul Matplotlib. Matplot-
 lib merupakan sebuah perintah yang digunakan untuk mengolah gambar.
 
--------------------------------------------------- -----------------------
+-------------------------------------------------------------------------
 Preparation before running Scripts / Applications
--------------------------------------------------- -----------------------
+-------------------------------------------------------------------------
 - Operating system based on GNU / Linux
 - Python
 - Python-Crypto
 - Python-Matplotlib
 
 
--------------------------------------------------- -----------------------
+-------------------------------------------------------------------------
 Installing the module Python and Python-Crypto-Matplotlib
--------------------------------------------------- -----------------------
+-------------------------------------------------------------------------
 Debian / Ubuntu:
 	~$ Sudo apt-get install python-crypto
 	~$ Sudo apt-get install python-matplotlib
@@ -94,9 +94,9 @@ Fedora / Redhat:
 	~$ Sudo yum install python-matplotlib
 
 
--------------------------------------------------- -----------------------
+-------------------------------------------------------------------------
 running Applications
--------------------------------------------------- -----------------------
+-------------------------------------------------------------------------
 1. First checks whether the file is already exutable StegaCrypt.py or not. If
    already, skip step 2.
 2. Change StegaCrypt.py so by typing in a terminal:
