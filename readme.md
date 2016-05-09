@@ -104,4 +104,5 @@ running Applications
 	~$ Python ./StegaCrypt.py, or
 	~$ ./StegaCrypt.py
 4. Select the options available in the application.
+
 =========================================================================
